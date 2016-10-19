@@ -1,0 +1,27 @@
+{
+    "gallery-title": "Famous Creatures",
+     "photos": [{
+       "src": " img/otter.jpeg"
+    }, {
+       "src": " img/snail.jpeg "
+    }, {
+       "src": " img/fox.jpeg"
+    }, {
+
+        "src": " img/Northern_Baikal_Russia.jpeg"
+    }, {
+
+        "src": " img/taranchula.jpeg"
+    }, {
+
+        "src": " img/chimps.jpeg"
+    }, {
+
+        "src": " img/African_elephant.jpeg"
+    }, {
+
+        "src": " img/bird.jpeg"
+    }, {
+
+      }]
+}
