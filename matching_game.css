@@ -67,7 +67,7 @@ margin-right: 470px;
 }
 
 html {
-  background: url(space.jpg) no-repeat center center fixed;
+  background: url(images/space.jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
